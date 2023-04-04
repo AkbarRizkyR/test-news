@@ -105,3 +105,20 @@ a {
     color-scheme: dark;
   }
 }
+.ant-carousel {
+  width: 100%;
+  max-width: 3000px;
+  margin: 0 auto;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 800px;
+  line-height: 350px;
+  background: #364d79;
+  overflow: hidden;
+}
+.ant-card {
+  height: 100%;
+  text-align: center;
+}
